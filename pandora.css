@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
+
+.col {
+    margin: 10px;
+}
+
+hr {
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.answer {
+    text-align: center;
+    font-size: 25px;
+}
+
+.park {
+    margin-bottom: 35px;
+}
+
+.avatar {
+    margin-bottom: 35px;
+}
